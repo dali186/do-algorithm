@@ -1,4 +1,4 @@
-package algorithm_tags.bfs;
+package algorithm_tags.bfs.example;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
