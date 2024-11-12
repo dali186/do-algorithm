@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class VectorBFS {
+public class BreadthFirstSearch {
     private static class Graph {
         private int n;
         private ArrayList<Integer>[] adj;
